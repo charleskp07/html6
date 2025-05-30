@@ -1459,14 +1459,13 @@ section {
     justify-items: center;
     align-items: center;
     margin-top: 50px;
-    padding: 150px;
 
 }
 
 .banner6-textzone{
     background:  linear-gradient(170deg, rgb(182, 144, 253) 0%,   rgb(255, 144, 166) 100%);
-    padding: 20px 40px;
     border-radius: 20px;
+    width: auto;
     justify-items: center;
 }
 
