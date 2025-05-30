@@ -1487,23 +1487,23 @@ section {
 
 .banner6-textzone>input {
     border: none;
-    width: 180px;
-    padding: 5px 20px;
+    width: 130px;
     border-radius: 5px;
+    font-size: 0.7rem;
 }
 
 
 .banner6-textzone>a {
     background: #ffffff;
     text-decoration: none;
-    font-size: 0.6rem;
-    padding: 3px 20px;
+    font-size: 0.7rem;
+
     border-radius: 5px;
 }
 
 
 aside {
-    display: flex;
+    /* display: flex; */
     gap: 15px;
     padding-top: 50px;
 }
@@ -1538,11 +1538,6 @@ aside {
     font-weight: 300;
 }
 
-.ligne {
-  border-top: 1px solid #000000; /* Définit une bordure supérieure */
-  width: 75%; /* Largeur de la ligne */
-  justify-self: center;
-}
 
 
 footer{
